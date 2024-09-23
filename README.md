@@ -1,8 +1,8 @@
 ## Hey, welcome here to my side 🌺
 
-**Seeliasbookshelf** is a place about my bookaccont from Instagram. ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Seeliasbookshelf** is a place about my bookaccont from Instagram. ✨
 
-![visitcount](https://visitcount.itsvg.in/api?id=Seeliaa&label=Profile%20Views&color=12&icon=1&pretty=true)
+![visitcount] [![](https://visitcount.itsvg.in/api?id=Seeliaa&label=Profile%20Views&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
 ## Stack 🖌️
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)

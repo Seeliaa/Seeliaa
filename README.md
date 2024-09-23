@@ -2,7 +2,7 @@
 
 **Seeliasbookshelf** is a place about my bookaccont from Instagram. ✨
 
-![visitcount] [![](https://visitcount.itsvg.in/api?id=Seeliaa&label=Profile%20Views&icon=0&pretty=false)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Seeliaa&label=Profile%20Views&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
 ## Stack 🖌️
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
